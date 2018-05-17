@@ -1,0 +1,14 @@
+{
+  "name": "threex.laser",
+  "homepage": "https://github.com/jeromeetienne/threex.laser",
+  "_release": "2ce88b3b13",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2ce88b3b13aeb97604995bd0e7d8359b9f3a47a9"
+  },
+  "_source": "https://github.com/jeromeetienne/threex.laser.git",
+  "_target": "*",
+  "_originalSource": "threex.laser",
+  "_direct": true
+}
